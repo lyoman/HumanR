@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "butchery-locator",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
